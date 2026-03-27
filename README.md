@@ -1,5 +1,6 @@
 # Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
-
+### Name : Titus Ratna Kumar Karivella 
+### Register number : 212224230292
 # AIM:
 To develop an Online Examination Registration System that automates and manages the process of student exam registration efficiently.
 
